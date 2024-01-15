@@ -1,0 +1,11 @@
+.holy-controller {
+  position: fixed;
+  right: 0;
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  width: 30vw;
+
+  max-height: 50vh;
+  overflow-y: scroll;
+}
